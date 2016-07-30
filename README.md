@@ -11,8 +11,9 @@ Make a web page that allows the user to input the lengths of the sides of a tria
 * Isosceles: Exactly 2 sides are equal.
 * Scalene: No sides are equal.
 * NOT a triangle: The sum of the lengths of any two sides of a triangle is less than or equal to the length of the third side.
-* full lesson can be found 
+* full lesson can be found
 <a href="https://www.learnhowtoprogram.com/intro-to-programming/javascript-and-jquery-c950c9ce-679c-4678-ab1f-11881b766e22/practice-triangle-tracker"<here</a>
+
 ## Setup/Installation Requirements
 
 * Clone this repository
